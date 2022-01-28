@@ -1,0 +1,1 @@
+# GOIP-1-Zabbix-template-
